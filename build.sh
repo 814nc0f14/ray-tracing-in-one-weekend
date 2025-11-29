@@ -1,1 +1,0 @@
-zig c++ ./main.cpp
